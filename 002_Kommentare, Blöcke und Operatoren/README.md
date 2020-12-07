@@ -8,9 +8,11 @@ Diskussionen, Fragen und Antworten auf
 https://community.hobbyelektroniker.ch/wbb/index.php?board/45-die-lektionen-zu-micropython-grundlagen/
 
 Falls du mich unterstützen möchtest:
-Paypal: https://www.paypal.me/hobbyelektroniker
+
+Paypal: https://www.paypal.me/hobbyelektroniker<br>
 Patreon: https://www.patreon.com/hobbyelektroniker
 
 Für Unterstützer auf Patreon steht das Video werbefrei zur Verfügung.
+
 
 
