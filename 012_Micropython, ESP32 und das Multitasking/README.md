@@ -4,7 +4,7 @@ https://youtu.be/FguWhBjIFak
 
 Multitasking, genauer Multithreading, erlaubt uns Arbeiten im Hintergrund auszuführen. Während unser Programm ungestört weiterläuft, kann es zum Beispiel im Hintergrund Anfragen beantworten. Das verwenden wir zum Beispiel im Webserver der Wetterstation. Obwohl die Unterstützung in Micropython etwas bescheiden ist, lässt sich mit dem _thread - Modul schon gut arbeiten. 
 
-Diskussionen, Fragen und Antworten im Forum: https://community.hobbyelektroniker.ch/wbb/index.php?board/64
+Diskussionen, Fragen und Antworten im Forum: https://community.hobbyelektroniker.ch/wbb/index.php?board/85
 
 Falls du mich unterstützen möchtest:
 

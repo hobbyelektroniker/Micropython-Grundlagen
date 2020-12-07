@@ -5,7 +5,7 @@ https://youtu.be/9ZV9u7Up6qE
 Kommentare, Programmblöcke und Operatoren sind wichtige Bestandteile jeder Programmiersprache. Wie das in Python funktioniert, lernst du in dieser Lektion.
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/45-die-lektionen-zu-micropython-grundlagen/
+https://community.hobbyelektroniker.ch/wbb/index.php?board/52
 
 Falls du mich unterstützen möchtest:
 

@@ -6,7 +6,7 @@ Laaangweilig!!! Aber trotzdem notwendig! Texte und Zahlen müssen korrekt format
 
 
 Diskussionen, Fragen und Antworten auf 
-https://community.hobbyelektroniker.ch/wbb/index.php?board/45-die-lektionen-zu-micropython-grundlagen/
+https://community.hobbyelektroniker.ch/wbb/index.php?board/54
 
 
 Falls du mich unterstützen möchtest:

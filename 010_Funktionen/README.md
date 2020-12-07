@@ -4,7 +4,7 @@ https://youtu.be/1PHV8IyqkQE
 
 Funktionen sind ein wichtiger Bestandteil jeder Programmiersprache. Python bietet spezielle Möglichkeiten bezüglich der Übergabe der Argumente und Rückgabe der Resultate.
 
-Diskussionen, Fragen und Antworten im Forum: https://community.hobbyelektroniker.ch/wbb/index.php?board/64
+Diskussionen, Fragen und Antworten im Forum: https://community.hobbyelektroniker.ch/wbb/index.php?board/76
 
 Falls du mich unterstützen möchtest:
 
